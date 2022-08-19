@@ -13,9 +13,7 @@ The user should clone the repository from GitHub. This application requires Node
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
-View video to see MySQL walk through  
-
-https://user-images.githubusercontent.com/102123208/185538586-1ba7d0ee-1fb4-4382-9311-9f9e7c3ecc44.mp4
+View video to see MySQL walk through  [play](https://user-images.githubusercontent.com/102123208/185538586-1ba7d0ee-1fb4-4382-9311-9f9e7c3ecc44.mp4)<br>
 
 
 
