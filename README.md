@@ -19,3 +19,5 @@ https://user-images.githubusercontent.com/102123208/185536786-22e19d70-d271-4bc2
 ](https://drive.google.com/file/d/18sK-yRKFtUk5sikDzyDlzh3Hs3WiPiV5/view?usp=sharing)
 
 View video to walk through of the API routes.
+
+https://drive.google.com/file/d/1s8us2Rb83LDzZszxK7vqydJjayyCznTH/view?usp=sharing
