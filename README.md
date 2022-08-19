@@ -15,4 +15,4 @@ This application will allow users to view, add, edit, and delete categories, pro
 
 View video to see MySQL walk through  [play](https://drive.google.com/file/d/18sK-yRKFtUk5sikDzyDlzh3Hs3WiPiV5/view?usp=sharing)<br>
 
-View video to walk through of the API routes.  [play]https://drive.google.com/file/d/1s8us2Rb83LDzZszxK7vqydJjayyCznTH/view?usp=sharing<br>
+View video to walk through of the API routes.  [play](https://drive.google.com/file/d/1s8us2Rb83LDzZszxK7vqydJjayyCznTH/view?usp=sharing)<br>
